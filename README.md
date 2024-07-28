@@ -46,10 +46,6 @@ To get a local copy up and running, follow these steps:
     ```bash
     cd Library
     ```
-3. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
 ## Usage
 
